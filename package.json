@@ -1,5 +1,5 @@
 {
-  "name": "Face Detection App",
+  "name": "faceRecognition",
   "version": "1.0.0",
   "main": "script.js",
   "scripts": {
